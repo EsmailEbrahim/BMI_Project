@@ -1,1 +1,1 @@
-# BMI_Project for ERPNext Course
+# BMI_Python_and_JS_Project for ERPNext Course
